@@ -17,7 +17,6 @@ PySocks==1.6.8
 pytest==3.0.6
 python-dateutil==2.6.0
 pytz==2018.7
-pywin32
 requests==2.12.5
 simplejson==3.10.0
 six==1.10.0
